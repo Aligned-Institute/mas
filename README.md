@@ -1,4 +1,4 @@
-# Signals v3
+# Multi-Agent Signals (MAS): Signals v3
 
 Enterprise data alignment platform — multi-agent Signal Engine + Alignment Coordinator + Canonical Aligned State. Python/FastAPI backend + Next.js terminal dashboard.
 
